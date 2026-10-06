@@ -8,3 +8,6 @@
 *.css text eol=lf
 *.js text eol=lf
 *.py text eol=lf
+.gitattributes text eol=lf
+.gitignore text eol=lf
+LICENSE text eol=lf
