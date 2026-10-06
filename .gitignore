@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+*.log
+__pycache__/
+.pytest_cache/
+dist/
+review/
+*.zip
